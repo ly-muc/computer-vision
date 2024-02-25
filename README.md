@@ -1,8 +1,14 @@
 # Computer Vision
 
-In this repository some projects in the context of Computer Vision are presented. These projects include contents of the graduate level courses of the Technical University of Munich and École polytechnique fédérale de Lausanne. 
+In this repository some projects in the context of Computer Vision are presented. These projects include contents of the graduate level courses and project at TU Munich, EPFL and ETH Zurich. 
 
-##  Object detection and Classification on an embedded GPU or FPGA system
+##  Master Thesis: Unsupervised Domain Adaptive Semantic Segmentation
+
+:wrench: PyTorch, MMSegmentation
+
+:round_pushpin: <img src="etc/logos/ethz.svg" alt="Image" width="70" >
+
+##  [Object detection and Classification on an embedded GPU or FPGA system](https://github.com/ly-muc/CapyNet-SDC-DAC2023)
 
 :key: Keywords: Object Detection
 
@@ -21,7 +27,7 @@ The DAC System Design Contest focuses on object detection and classification on 
 <img src="etc/capynet/task.jpg" alt="ObjectDetection" width="500"/>
 </p>
 
-## Learning Object-Centric Representations of Visually Complex Scenes
+## [Learning Object-Centric Representations of Visually Complex Scenes](https://github.com/ly-muc/Object-Centric-Representations)
 
 :key: Keywords: Representation Learning, Self-supervised Learning, Contrastive Learning, Slot Attention
 
